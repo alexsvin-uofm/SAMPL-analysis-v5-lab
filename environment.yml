@@ -25,6 +25,5 @@ dependencies:
   - scikit-image
   - ipykernel
   - notebook
-  - jupyter_client[version='<8']
-  - pyzmq[version='<25']
-prefix: /Users/yunluz/miniconda3/envs/sampl
+  - jupyter_client<8
+  - pyzmq<25
